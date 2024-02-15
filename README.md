@@ -31,9 +31,17 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
 </div>
 
-### 🛠 Статистика:
+### ⚙️ GitHub статистика:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mi-bogdan&show_icons=true&theme=radical)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mi-bogdan&layout=compact&count_private=true&theme=gruvbox)
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=mi-bogdan&theme=dark&background=000000" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mi-bogdan&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
 
 
