@@ -18,7 +18,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+
 
 ### 🛠 Инструменты:
 
@@ -26,7 +26,8 @@
 ![Postman](https://img.shields.io/badge/Postman-FCA121?style=flat-square&logo=postman)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+
 
 
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
@@ -53,4 +54,8 @@
   </tr>
 </table>
 
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
 
