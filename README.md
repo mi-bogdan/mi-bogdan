@@ -26,7 +26,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FCA121?style=flat-square&logo=postman)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Git](https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
 
 
