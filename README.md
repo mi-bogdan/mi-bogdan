@@ -31,5 +31,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
 </div>
 
+### 🛠 Статистика:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mi-bogdan)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
