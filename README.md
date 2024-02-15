@@ -34,5 +34,6 @@
 ### 🛠 Статистика:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mi-bogdan&show_icons=true&theme=radical)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mi-bogdan&layout=compact&count_private=true&theme=gruvbox)
 
 
