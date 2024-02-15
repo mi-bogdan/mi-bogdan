@@ -1,4 +1,4 @@
-### 🤝 Социальные сети:
+## 🤝 Социальные сети:
 
   <div id="badges">
     <a href="https://t.me/bogdan_shnyra" target="_blank">
