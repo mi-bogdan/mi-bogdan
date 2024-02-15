@@ -11,16 +11,18 @@
 
 ### 💻 Технологии:
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="redis" alt="redis" width="40" height="40"/>&nbsp -->
-</div>
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
+![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django)
+![Django Channels](https://img.shields.io/badge/-Django_Channels-46a2f1?style=flat-square&logo=Django)
+![DCRF](https://img.shields.io/badge/-DCRF-46a2f1?style=flat-square&logo=Django)
+![Django Ninja](https://img.shields.io/badge/-Django_Ninja-%234B32C3?style=flat-square&logo=Django)
+![FastAPI](https://img.shields.io/badge/-FastAPI-%2300C7B7?style=flat-square&logo=FastAPI)
+![Flask](https://img.shields.io/badge/-Flask-%232c3e50?style=flat-square&logo=Flask)
+![Masonite](https://img.shields.io/badge/-Masonite-blue?style=flat-square&logo=Masonite)
+![ORMAR](https://img.shields.io/badge/-ORMAR-DD0031?style=flat-square&logo=ORMAR)
+![SqlAlchemy](https://img.shields.io/badge/-SqlAlchemy-FCA121?style=flat-square&logo=SqlAlchemy)
+![Celery](https://img.shields.io/badge/-Celery-%2300C7B7?style=flat-square&logo=Celery)
 
 ### 🛠 Инструменты:
 
